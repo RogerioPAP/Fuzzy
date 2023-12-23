@@ -125,11 +125,11 @@ elseif get(handles.radiobutton15, 'Value') == 1
 
 end
 
-AFILC_Principal;
+AFILC_Main;
 
 
 
-disp('Processamento concluído... verifique os gráficos na interface');
+disp('Processing complete... check the graphics in the interface');
     
 %msgbox([num2str(TipoSimu), '  ',  num2str(Tipo_intervalo)]);
 
